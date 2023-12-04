@@ -6,11 +6,11 @@
         return hero;
     }
 
-    const activateBatisignal = ( ) => {
+    const activateBatisignal = ( ):string => {
         return 'Batisignal activa!';
     };
     
-
+    const heroName:string = returnName();
 
 
 

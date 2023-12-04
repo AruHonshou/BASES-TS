@@ -8,4 +8,5 @@
     const activateBatisignal = () => {
         return 'Batisignal activa!';
     };
+    const heroName = returnName();
 })();

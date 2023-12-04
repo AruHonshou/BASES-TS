@@ -1,8 +1,6 @@
 (() => {
     'use strict';
-    const fullName = ( firstName, lastName):string => {
-        return `${firstName}, ${lastName}`;
-    };
+    const fullName = ( firstName:string, lastName:string ):string => `${firstName}, ${lastName}`;
     
     const name = fullName( 'Tony', 'Stark');
 
