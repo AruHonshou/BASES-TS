@@ -24,7 +24,7 @@
     // const apocalipsis = new Apocalipsis('Soy un apocalipsis');
 
 
-    console.log( apocalipsis );
+    // console.log( apocalipsis );
 
     
 })();
